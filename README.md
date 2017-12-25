@@ -1,2 +1,5 @@
 # codingame
-Improve programming proficiency
+
+Improve programming proficiency - Jongwony
+
+[www.codingame.com](//codingame.com)
